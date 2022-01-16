@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "dev.samhoque.extendcrophitbox",
+    "name": "Extend Crop Hitbox",
+    "description": "1.12 Crop Hitboxes rebuilt into 1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://samhoque.dev",
+    "updateUrl": "",
+    "authorList": [
+      "Sam Hoque"
+    ],
+    "credits": "SamHoque",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
